@@ -10,6 +10,8 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
+- [CAP Theorem add-on 1](https://www.youtube.com/watch?v=BHqjEjzAicA)
+- [CAP Theorem add-on 2](https://www.youtube.com/watch?v=8UryASGBiR4)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
