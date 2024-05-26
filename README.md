@@ -17,7 +17,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - Basics of Internet
   - [OSI Model Video](https://www.youtube.com/watch?v=vv4y_uOneC0)
-  - [OSI Model blog]([https://www.youtube.com/watch?v=vv4y_uOneC0](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
+  - [OSI Model Blog](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [Synchronous vs. asynchronous communications](https://newsletter.ashishps.com/p/aec1cebf-6060-45a7-8e00-47364ca70761)
